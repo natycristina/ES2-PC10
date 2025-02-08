@@ -13,3 +13,9 @@ Por que o livro de matemática se suicidou?
 
 Qual é o café mais forte do mundo? 
 -O café expresso!
+<<<<<<< HEAD
+=======
+
+Por que o computador foi ao médico? 
+-Porque estava com um vírus!
+>>>>>>> b345bcd (Adicionando outra piada 3.txt)
